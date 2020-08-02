@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/counterAppReact0aExp/static/css/main.a6601f16.chunk.css",
+    "main.js": "/counterAppReact0aExp/static/js/main.b39900e8.chunk.js",
+    "main.js.map": "/counterAppReact0aExp/static/js/main.b39900e8.chunk.js.map",
+    "runtime-main.js": "/counterAppReact0aExp/static/js/runtime-main.b00e6b9a.js",
+    "runtime-main.js.map": "/counterAppReact0aExp/static/js/runtime-main.b00e6b9a.js.map",
+    "static/js/2.87faeb51.chunk.js": "/counterAppReact0aExp/static/js/2.87faeb51.chunk.js",
+    "static/js/2.87faeb51.chunk.js.map": "/counterAppReact0aExp/static/js/2.87faeb51.chunk.js.map",
+    "index.html": "/counterAppReact0aExp/index.html",
+    "precache-manifest.2df6cc14ea50a274f438d3d757723d2a.js": "/counterAppReact0aExp/precache-manifest.2df6cc14ea50a274f438d3d757723d2a.js",
+    "service-worker.js": "/counterAppReact0aExp/service-worker.js",
+    "static/css/main.a6601f16.chunk.css.map": "/counterAppReact0aExp/static/css/main.a6601f16.chunk.css.map",
+    "static/js/2.87faeb51.chunk.js.LICENSE.txt": "/counterAppReact0aExp/static/js/2.87faeb51.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b00e6b9a.js",
+    "static/js/2.87faeb51.chunk.js",
+    "static/css/main.a6601f16.chunk.css",
+    "static/js/main.b39900e8.chunk.js"
+  ]
+}
